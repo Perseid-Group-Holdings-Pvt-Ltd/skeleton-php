@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Perseid\\SkeletonPhp\\\\": "src/"
+            "Perseid\\SkeletonPhp\\": "src/"
         }
     },
     "autoload-dev": {
