@@ -1,6 +1,6 @@
 <p align="center">
     <p align="center">
-        <a href="https://github.com/perseid/skeleton-php/actions"><img alt="GitHub Workflow Status (master)" src="https://github.com/perseid/skeleton-php/actions/workflows/tests.yml/badge.svg"></a>
+        <a href="https://github.com/Perseid-Group-Holdings-Pvt-Ltd/skeleton-php/actions"><img alt="GitHub Workflow Status (master)" src="https://github.com/Perseid-Group-Holdings-Pvt-Ltd/skeleton-php/actions/workflows/tests.yml/badge.svg"></a>
         <a href="https://packagist.org/packages/perseid/skeleton-php"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/perseid/skeleton-php"></a>
         <a href="https://packagist.org/packages/perseid/skeleton-php"><img alt="Latest Version" src="https://img.shields.io/packagist/v/perseid/skeleton-php"></a>
         <a href="https://packagist.org/packages/perseid/skeleton-php"><img alt="License" src="https://img.shields.io/packagist/l/perseid/skeleton-php"></a>
